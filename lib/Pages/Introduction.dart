@@ -1,4 +1,4 @@
-import 'package:bluearchiveintroduction/Widget/ScreenShot.dart';
+import 'package:bluearchiveintroduction/Widgets/ScreenShot.dart';
 import 'package:flutter/material.dart';
 
 class Introduction extends StatelessWidget {
