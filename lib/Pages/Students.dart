@@ -1,4 +1,4 @@
-import 'package:bluearchiveintroduction/Widget/StudentList.dart';
+import 'package:bluearchiveintroduction/Widgets/StudentList.dart';
 
 import '../Types/Student.dart';
 import 'package:flutter/material.dart';
